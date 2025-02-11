@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pratham Shah  pratham@demo.git  @pratham26
 
 # THANKS
 
