@@ -16,6 +16,8 @@ It can be deployed on any web server.
 
 ## How to Contribute
 
+Please fork this repository and then issue pull requests.
+
 ### Copyright
 
 2025 Pratham Shah
