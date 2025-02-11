@@ -1,4 +1,4 @@
-	# Starter Web Project
+# Starter Web Project
 
 This is a simple website.
 
@@ -15,3 +15,7 @@ As stated above the main purpose is to give Git demo.
 It can be deployed on any web server.
 
 ## How to Contribute
+
+### Copyright
+
+2025 Pratham Shah
