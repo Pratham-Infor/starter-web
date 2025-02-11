@@ -20,4 +20,4 @@ Please fork this repository and then issue pull requests.
 
 ### Copyright
 
-2025 Pratham Shah
+2025 Pratham Shah, All Rights Reserved.
